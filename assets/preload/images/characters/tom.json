@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				167,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "tom_idle"
+		},
+		{
+			"offsets": [
+				210,
+				269
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tom_right"
+		},
+		{
+			"offsets": [
+				165,
+				82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tom_down"
+		},
+		{
+			"offsets": [
+				183,
+				216
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tom_up"
+		},
+		{
+			"offsets": [
+				399,
+				96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tom_left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tom",
+	"position": [
+		140,
+		60
+	],
+	"healthicon": "tom",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-70,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
