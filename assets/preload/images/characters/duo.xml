@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="duo.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="al10000" x="5" y="5" width="507" height="680" frameX="-1" frameY="0" frameWidth="508" frameHeight="683"/>
+	<SubTexture name="al10001" x="522" y="5" width="507" height="681" frameX="-1" frameY="0" frameWidth="508" frameHeight="683"/>
+	<SubTexture name="al10002" x="1039" y="5" width="507" height="682" frameX="-1" frameY="-1" frameWidth="508" frameHeight="683"/>
+	<SubTexture name="al10003" x="1556" y="5" width="507" height="677" frameX="-1" frameY="-6" frameWidth="508" frameHeight="683"/>
+	<SubTexture name="alt20000" x="4339" y="3204" width="513" height="700" frameX="-1" frameY="0" frameWidth="514" frameHeight="700"/>
+	<SubTexture name="alt20001" x="3992" y="3914" width="513" height="700" frameX="-1" frameY="0" frameWidth="514" frameHeight="700"/>
+	<SubTexture name="alt20002" x="4867" y="714" width="513" height="699" frameX="-1" frameY="-1" frameWidth="514" frameHeight="700"/>
+	<SubTexture name="alt20003" x="4813" y="1423" width="512" height="695" frameX="-1" frameY="-5" frameWidth="514" frameHeight="700"/>
+	<SubTexture name="alt20004" x="1589" y="714" width="512" height="682" frameX="0" frameY="-18" frameWidth="514" frameHeight="700"/>
+	<SubTexture name="alt20005" x="2111" y="714" width="512" height="679" frameX="0" frameY="-21" frameWidth="514" frameHeight="700"/>
+	<SubTexture name="alt20006" x="2633" y="714" width="512" height="678" frameX="0" frameY="-22" frameWidth="514" frameHeight="700"/>
+	<SubTexture name="alt20007" x="3155" y="714" width="512" height="679" frameX="0" frameY="-21" frameWidth="514" frameHeight="700"/>
+	<SubTexture name="alt20008" x="4931" y="2128" width="512" height="683" frameX="0" frameY="-17" frameWidth="514" frameHeight="700"/>
+	<SubTexture name="alt20009" x="4931" y="2821" width="512" height="696" frameX="-1" frameY="-4" frameWidth="514" frameHeight="700"/>
+	<SubTexture name="alt20010" x="4867" y="5" width="512" height="699" frameX="-1" frameY="-1" frameWidth="514" frameHeight="700"/>
+	<SubTexture name="alt30000" x="2073" y="5" width="532" height="696" frameX="-2" frameY="0" frameWidth="534" frameHeight="696"/>
+	<SubTexture name="alt30001" x="2615" y="5" width="532" height="696" frameX="-2" frameY="0" frameWidth="534" frameHeight="696"/>
+	<SubTexture name="alt30002" x="3157" y="5" width="532" height="695" frameX="-2" frameY="-1" frameWidth="534" frameHeight="696"/>
+	<SubTexture name="alt30003" x="3699" y="5" width="533" height="691" frameX="-1" frameY="-5" frameWidth="534" frameHeight="696"/>
+	<SubTexture name="alt30004" x="5" y="706" width="532" height="678" frameX="-1" frameY="-18" frameWidth="534" frameHeight="696"/>
+	<SubTexture name="alt40000" x="547" y="706" width="511" height="694" frameX="-1" frameY="0" frameWidth="512" frameHeight="695"/>
+	<SubTexture name="alt40001" x="1068" y="706" width="511" height="695" frameX="-1" frameY="0" frameWidth="512" frameHeight="695"/>
+	<SubTexture name="alt40002" x="3699" y="706" width="511" height="693" frameX="-1" frameY="-1" frameWidth="512" frameHeight="695"/>
+	<SubTexture name="alt40003" x="5" y="1409" width="511" height="689" frameX="-1" frameY="-5" frameWidth="512" frameHeight="695"/>
+	<SubTexture name="alt40004" x="1589" y="1409" width="511" height="676" frameX="0" frameY="-18" frameWidth="512" frameHeight="695"/>
+	<SubTexture name="alt50000" x="2110" y="1409" width="514" height="695" frameX="-2" frameY="0" frameWidth="516" frameHeight="695"/>
+	<SubTexture name="alt50001" x="2634" y="1409" width="514" height="695" frameX="-2" frameY="0" frameWidth="516" frameHeight="695"/>
+	<SubTexture name="alt50002" x="3158" y="1409" width="514" height="694" frameX="-2" frameY="-1" frameWidth="516" frameHeight="695"/>
+	<SubTexture name="alt50003" x="3682" y="1409" width="515" height="690" frameX="-1" frameY="-5" frameWidth="516" frameHeight="695"/>
+	<SubTexture name="alt50004" x="5" y="2109" width="514" height="677" frameX="-1" frameY="-18" frameWidth="516" frameHeight="695"/>
+	<SubTexture name="tomjer_down0000" x="529" y="2113" width="716" height="681" frameX="-6" frameY="0" frameWidth="741" frameHeight="681"/>
+	<SubTexture name="tomjer_down0001" x="1255" y="2113" width="738" height="637" frameX="-2" frameY="-40" frameWidth="741" frameHeight="681"/>
+	<SubTexture name="tomjer_down0002" x="3158" y="2113" width="741" height="631" frameX="0" frameY="-45" frameWidth="741" frameHeight="681"/>
+	<SubTexture name="tomjer_down0003" x="2003" y="2754" width="741" height="631" frameX="0" frameY="-45" frameWidth="741" frameHeight="681"/>
+	<SubTexture name="tomjer_left0000" x="2754" y="2754" width="783" height="673" frameX="-17" frameY="-14" frameWidth="800" frameHeight="687"/>
+	<SubTexture name="tomjer_left0001" x="3547" y="2754" width="782" height="687" frameX="-1" frameY="0" frameWidth="800" frameHeight="687"/>
+	<SubTexture name="tomjer_left0002" x="5" y="3451" width="781" height="686" frameX="0" frameY="-1" frameWidth="800" frameHeight="687"/>
+	<SubTexture name="tomjer_left0003" x="796" y="3451" width="781" height="686" frameX="0" frameY="-1" frameWidth="800" frameHeight="687"/>
+	<SubTexture name="tomjer_right0000" x="1587" y="3451" width="548" height="837" frameX="-31" frameY="-26" frameWidth="608" frameHeight="874"/>
+	<SubTexture name="tomjer_right0001" x="2145" y="3451" width="601" height="862" frameX="-1" frameY="-12" frameWidth="608" frameHeight="874"/>
+	<SubTexture name="tomjer_right0002" x="2756" y="3451" width="608" height="863" frameX="0" frameY="0" frameWidth="608" frameHeight="874"/>
+	<SubTexture name="tomjer_right0003" x="3374" y="3451" width="608" height="852" frameX="0" frameY="-11" frameWidth="608" frameHeight="874"/>
+	<SubTexture name="tomjer_up0000" x="4242" y="5" width="615" height="755" frameX="-1" frameY="-45" frameWidth="616" frameHeight="802"/>
+	<SubTexture name="tomjer_up0001" x="4220" y="770" width="583" height="800" frameX="0" frameY="-2" frameWidth="616" frameHeight="802"/>
+	<SubTexture name="tomjer_up0002" x="4207" y="1580" width="595" height="802" frameX="0" frameY="0" frameWidth="616" frameHeight="802"/>
+	<SubTexture name="tomjer_up0003" x="4339" y="2392" width="582" height="802" frameX="0" frameY="0" frameWidth="616" frameHeight="802"/>
+</TextureAtlas>
